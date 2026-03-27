@@ -56,11 +56,11 @@ const LEADERSHIP_ROLES = [
     description: "Leading student movements, organizing awareness campaigns, and advocating for student rights and educational reforms in the town."
   },
   {
-    role: "Class Representative",
-    organization: "B.Tech CSE",
-    location: "College Campus",
+    role: "Computer Asst. - Training & Internship",
+    organization: "MPDO",
+    location: "Guntur",
     period: "2023 - 2024",
-    description: "Bridging the gap between students and faculty, ensuring smooth communication and addressing academic concerns."
+    description: "Assisted in computer training programs and completed an internship focused on administrative systems and technical support."
   }
 ];
 
